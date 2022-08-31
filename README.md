@@ -17,3 +17,6 @@ and when you want to stop this project just go to the terminal and press CONTROL
 so enjoy of this little project!!
 
 Thanks for READ!!
+
+
+react version = 18.2.0 react-dom = 18.2.0
